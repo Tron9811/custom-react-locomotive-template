@@ -4,6 +4,7 @@ This is a simple react-app project was made into a template to illustrate the us
 
 # Prerequisites
 Node => 16.13.0
+
 Docker is optional
 
 ### 2 ways to get running with it:
