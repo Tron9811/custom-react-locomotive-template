@@ -7,7 +7,7 @@ Node => 16.13.0
 
 Docker is optional
 
-### 2 ways to get running with it:
+
 
 #### 1. Classic
 
@@ -18,7 +18,5 @@ Make sure to be running node version 16.13. [Use NVM to switch](https://github.c
 `npm start`
 
 
-
-#### 2. Docker
-
-If you do not have NVM setup, you can easily run the app in a container using `npm run docker`. 
+## Run with Docker if you want. 
+`npm docker`
